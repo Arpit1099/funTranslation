@@ -1,0 +1,23 @@
+textarea{
+    width: 80%;
+    height: 10vh;
+    margin: 1rem;
+    padding: 1rem;
+}
+button{
+    border-radius: 12%;
+    background-color: gold;
+    color: honeydew;
+    border: gold;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.header{
+    background-color: gold;
+    text-align: center;
+}
+
+.heading1{
+    color: honeydew;
+    font-family: 'Permanent Marker', cursive;
+}
